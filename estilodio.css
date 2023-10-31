@@ -12,7 +12,7 @@
     background-color: black;
 }
 .banner-content {
-    background-image: url('/assets/Design\ sem\ nome.png');
+    background-image: url('Design sem nome.png');
     background-attachment: fixed;
 }
 .banner-content, h1{
